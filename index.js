@@ -11,3 +11,8 @@ function logShout(string){
   console.log(string.toUpperCase())
   return
 }
+
+function logShout(string){
+  console.log(string.toLowerCase())
+  return
+}
